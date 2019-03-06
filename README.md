@@ -1,4 +1,4 @@
-# Boost CMake Nots
+# Boost CMake Notes
 A collection of snippets and notes for adding minimal cmake files to boost.
 
 ## Default commit message:
