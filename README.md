@@ -20,9 +20,9 @@ This cmake file just provides the minimal infrastructure necessary, such that ot
     target_link_libraries( <my_lib> PUBLIC Boost::<libname> )
 
 
-provided that all direct and indirect dependencies are also being added via `add_subdirectory` (which can e.g happen via globbing expression).
+That assumes that all direct and indirect dependencies are also being added via `add_subdirectory` (which can e.g. happen via globbing expressions).
 
-More information:
+Some background information:
 
     * https://groups.google.com/forum/#!topic/boost-developers-archive/9ZdrVbAn1aU
 
