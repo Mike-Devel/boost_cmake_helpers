@@ -8,7 +8,7 @@ A collection of snippets and notes for adding minimal cmake files to boost.
 
 - CMake file only supports add_subdirectory workflow. 
 - Provides Boost::function_types target, 
-  but no installation and no unit tests.git p
+  but no installation and no unit tests
 ```
 
 ## PR text:
