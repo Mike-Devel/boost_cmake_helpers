@@ -24,7 +24,7 @@ That assumes that all direct and indirect dependencies are also being added via 
 
 Some background information:
 
-    * https://groups.google.com/forum/#!topic/boost-developers-archive/9ZdrVbAn1aU
+  * https://groups.google.com/forum/#!topic/boost-developers-archive/9ZdrVbAn1aU
 
 
 Of course the file can be extended to e.g. build and run tests and support installation, but that is out of scope for this particular PR.
